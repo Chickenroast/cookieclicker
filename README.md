@@ -33,7 +33,8 @@ Il est **impossible d’avoir un score négatif**, on ne peut donc pas acheter d
 ### Project starting date:
 23/10/2023
 
-## Progress Project :
+## Progress Project
+
 The project is finished.
 
 ### Collaborators:
