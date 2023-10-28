@@ -1,11 +1,12 @@
-# 🍪 Pognonclicker
+# 🍪 PiggyClicker
 
 SEE PROJECT [Link](https://chickenroast.github.io/cookieclicker/)
 
-## Mockup :
 
-![image](https://github.com/Chickenroast/cookieclicker/assets/60290487/148e4fcd-a397-455b-aa31-7c4482b95a44)
 
+![image](https://github.com/Chickenroast/cookieclicker/assets/60290487/619cac50-bdf1-4681-b044-3a2d9335307e)
+
+- inspiration :
 [Link text Here](https://dribbble.com/shots/6474110-Mobile-App-for-Retailers-and-Contractors-Clicker-App-Design/attachments/6474110-Mobile-App-for-Retailers-and-Contractors-Clicker-App-Design?mode=media)
 
 ## Techs :
