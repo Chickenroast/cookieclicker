@@ -23,10 +23,21 @@ Deploy with \ Link incoming / gh-pages and vite.
 
 
 ## The Game :
+The game will display the rules of the game at startup.
 The game have 3 bottons can encrase your score, but carrefull they have a cost.
 ⏱️Game time : 5 minutes
 🏆Encrase your score : clic on the Dollar for win and dont forget the bonus.
 🎁You have 2 score one of your clic and one with the bonus for shopping.
- 
+
+## Contributor :
+Julia 
+Loa
+Han
+Zineb
+
+## Project Progress :
+the project is finished.
+
+
 
 
