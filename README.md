@@ -21,11 +21,11 @@ SEE PROJECT [Link](https://chickenroast.github.io/cookieclicker/)
 - Gh-pages [Link Here](https://www.npmjs.com/package/gh-pages)
 
 Install with npm go check on the Links behind.
-Deploy with \ Link incoming / gh-pages and vite.
+Deploy with gh-pages and vite.
 
 ## The Game :
 
 The game have 3 bottons can encrase your score, but carrefull they have a cost.
-⏱️Game time : 5 minutes
+⏱️Game time : 3 minutes
 🏆Encrase your score : clic on the Dollar for win and dont forget the bonus.
 🎁You have 2 score one of your clic and one with the bonus for shopping.
