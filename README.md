@@ -32,12 +32,3 @@ The game have 3 bottons can encrase your score, but carrefull they have a cost.
 🏆Encrase your score : clic on the Dollar for win and dont forget the bonus.
 🎁You have 2 score one of your clic and one with the bonus for shopping.
 
-## Colaborators :
-
-- Julia MT: [Chickenroast](https://github.com/Chickenroast)
-
-- LoaGnadjouSoumahoro : [Loa](https://github.com/LoaGnadjouSoumahoro)
-
-- Han : [Iota07](https://github.com/iota07)
-
-- Zineb : [Neb244](https://github.com/neb244)
